@@ -34,7 +34,7 @@
     xrextras-runtime-error>
 
     <a-assets>
-      <a-asset-item id="frame-glb" src="tazachida2.glb"></a-asset-item>
+      <a-asset-item id="frame-glb" src="tazachida.glb"></a-asset-item>
     </a-assets>
 
     <a-camera position="0 4 10"> </a-camera>
